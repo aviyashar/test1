@@ -4,3 +4,6 @@ print ("hello wwedeqw")
 print ("hello wwedeqw")
 print ("hello wwedeqw")
 
+print ("hello wwedeqw")
+print ("hello wwedeqw")
+
