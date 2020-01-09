@@ -25,12 +25,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-<<<<<<< HEAD
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-=======
     <property name="last_opened_file_path" value="$PROJECT_DIR$/avi1.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
->>>>>>> dev
   </component>
   <component name="RunManager">
     <configuration name="avi1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -90,33 +86,6 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="373" y="0" key="#avi1/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1577957784424" />
-<<<<<<< HEAD
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577957772647">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1577957772647" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1578581091745">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1578581091745" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1578581196451">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1578581196451" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1578581196451">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1578581196451" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1578581196451">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1578581196450" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1578581196451">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1578581196451" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1578581096984">
-=======
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578581256884">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -142,10 +111,9 @@
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1578581257687" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1577958647165">
->>>>>>> dev
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1578581096984" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1577958647165" />
     <state x="341" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1577957714293">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
